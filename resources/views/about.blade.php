@@ -47,10 +47,10 @@
                 <h2> Team Members</h2>
                 <ul class="team-list">
                     <li><i class="fas fa-user"></i> <strong>Dr. Bernardo A. Pangilinan</strong> – Director & Robotics Lead</li>
-                    <li><i class="fas fa-user"></i> <strong>Engr. John Micahel Santiago</strong> – Control Systems Specialist</li>
-                    <li><i class="fas fa-user"></i> <strong>Engr. Mark Soriano</strong> – AI & ML Advisor</li>
-                    <li><i class="fas fa-user"></i> <strong>Engr. Lanfeal Martinez</strong> – Software Developer</li>
-                    <li><i class="fas fa-user"></i> <strong>Engr. Jerome Bagsic</strong> – Research Coordinator</li>
+                    <li><i class="fas fa-user"></i> <strong>Engr. John Micahel Santiago</strong> – Team Member</li>
+                    <li><i class="fas fa-user"></i> <strong>Engr. Mark Soriano</strong> – Team Member</li>
+                    <li><i class="fas fa-user"></i> <strong>Engr. Lanfeal Martinez</strong> – Team Member</li>
+                    <li><i class="fas fa-user"></i> <strong>Engr. Jerome Bagsic</strong> – Team Member</li>
                 </ul>
             </div>
         </td>
