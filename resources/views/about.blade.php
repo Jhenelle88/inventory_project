@@ -46,11 +46,11 @@
             <div class="section team">
                 <h2> Team Members</h2>
                 <ul class="team-list">
-                    <li><i class="fas fa-user"></i> <strong>Dr. Bernardo A. Pangilinan</strong> – Director & Robotics Lead</li>
-                    <li><i class="fas fa-user"></i> <strong>Engr. John Micahel Santiago</strong> – Team Member</li>
-                    <li><i class="fas fa-user"></i> <strong>Engr. Mark Soriano</strong> – Team Member</li>
-                    <li><i class="fas fa-user"></i> <strong>Engr. Lanfeal Martinez</strong> – Team Member</li>
-                    <li><i class="fas fa-user"></i> <strong>Engr. Jerome Bagsic</strong> – Team Member</li>
+                    <li><i class="fas fa-user"></i> <strong>Dr. Bernardo A. Pangilinan</strong> – Director & Robotics Lead - Software Developer</li>
+                    <li><i class="fas fa-user"></i> <strong>Engr. John Micahel Santiago</strong> – Team Member - Software Developer</li>
+                    <li><i class="fas fa-user"></i> <strong>Engr. Mark Soriano</strong> – Team Member - Software Developer</li>
+                    <li><i class="fas fa-user"></i> <strong>Engr. Lanfeal Martinez</strong> – Team Member - Software Developer</li>
+                    <li><i class="fas fa-user"></i> <strong>Engr. Jerome Bagsic</strong> – Team Member - Software Developer</li>
                 </ul>
             </div>
         </td>
